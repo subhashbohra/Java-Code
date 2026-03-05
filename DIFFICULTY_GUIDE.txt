@@ -1,0 +1,127 @@
+/**
+ * DIFFICULTY LEVELS FOR ALL PROBLEMS
+ * 
+ * This file lists all problems with their difficulty ratings.
+ * Use this as a quick reference guide.
+ */
+
+/*
+=============================================================================
+EASY PROBLEMS (26 total)
+=============================================================================
+
+Array & String:
+- TwoSum.java
+- ContainsDuplicate.java
+- ValidAnagram.java
+- RemoveDuplicates.java
+- MoveZeroes.java
+- MajorityElement.java
+- BestTimeBuySellStock.java
+- ValidParentheses.java
+- IsomorphicStrings.java
+- LongestCommonPrefix.java
+- ClimbingStairs.java
+
+Math:
+- PalindromeNumber.java
+- FibonacciNumber.java
+- FactorialNumber.java
+- PrimeNumber.java
+- SquareRoot.java
+- CountDigits.java
+- SumOfDigits.java
+- GCDandLCM.java
+- AddDigits.java
+- ExcelSheetColumn.java
+- MissingNumber.java
+- HappyNumber.java
+- ArmstrongNumber.java
+- PerfectNumber.java
+- UglyNumber.java
+
+=============================================================================
+MEDIUM PROBLEMS (19 total)
+=============================================================================
+
+Array & String:
+- ThreeSum.java
+- RotateArray.java
+- LongestSubstring.java
+- MaximumSubarray.java
+- NextGreaterElement.java
+- ReverseWords.java
+- MergeSortedArray.java
+- Permutations.java
+- PalindromeLinkedList.java
+- LexicographicalNumbers.java
+
+Math & Algorithms:
+- ReverseInteger.java
+- PowerOfNumber.java
+- DecodeWays.java
+- DivideTwoIntegers.java
+- TrailingZeroes.java
+- MultiplyStrings.java
+- MinimumBouquets.java
+- NumberOfIslands.java
+- MinimumRefuelingStops.java
+
+=============================================================================
+HARD PROBLEMS (3 total)
+=============================================================================
+
+- DistinctSubsequences.java
+- IntegerToEnglishWords.java
+- MaximumInvitations.java
+
+=============================================================================
+SPECIAL/CONTEST PROBLEMS (6 total)
+=============================================================================
+
+- MarkElements.java
+- FurthestPoint.java
+- CountSubmatrices.java
+- DoubleModularExponentiation.java
+- SmallestString.java
+- SecondHighestSalary.java
+
+=============================================================================
+RECOMMENDED PRACTICE ORDER
+=============================================================================
+
+BEGINNERS (Start here):
+1. CountDigits.java
+2. SumOfDigits.java
+3. PalindromeNumber.java
+4. FactorialNumber.java
+5. FibonacciNumber.java
+6. ContainsDuplicate.java
+7. TwoSum.java
+8. ValidAnagram.java
+9. ValidParentheses.java
+10. BestTimeBuySellStock.java
+
+INTERMEDIATE (After mastering basics):
+1. RemoveDuplicates.java
+2. MoveZeroes.java
+3. RotateArray.java
+4. MajorityElement.java
+5. MaximumSubarray.java
+6. ClimbingStairs.java
+7. LongestSubstring.java
+8. ThreeSum.java
+9. ReverseInteger.java
+10. DecodeWays.java
+
+ADVANCED (For interview preparation):
+1. PalindromeLinkedList.java
+2. Permutations.java
+3. NumberOfIslands.java
+4. MinimumRefuelingStops.java
+5. DistinctSubsequences.java
+6. IntegerToEnglishWords.java
+7. MaximumInvitations.java
+
+=============================================================================
+*/
